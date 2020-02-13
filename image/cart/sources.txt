@@ -1,0 +1,35 @@
+cart 11,12 : https://www.forever21.com/ca/shop/catalog/product/f21/top_blouses/2000341756
+
+cart 21,22 : https://www.forever21.com/ca/shop/catalog/product/f21/dress_casual/2000336590/05
+
+cart 31,32 : https://www.forever21.com/ca/shop/catalog/product/f21/top_blouses/2000328324
+
+cart 41,42 : https://www.forever21.com/ca/shop/catalog/product/f21/sweater/2000326935
+
+cart 51,52 : https://www.forever21.com/ca/shop/catalog/product/f21/bottom_jeans/2000339927
+
+cart 61,62 : https://www.forever21.com/ca/shop/catalog/product/f21/top_blouses/2000340504
+
+cart 71,72 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-tops/2000355316
+
+cart 81,82 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-sweaters/2000343922
+
+cart 91,92 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-sweaters/2000319847
+
+cart 101,102 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-jackets-and-coats/2000346647
+
+cart 111,112 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-jackets-and-coats/2000334257
+
+cart 121,122 : https://www.forever21.com/ca/shop/catalog/product/21men/mens-bottom-denim/2000264180
+
+cart 131,132 : https://www.forever21.com/ca/shop/Catalog/Product/21men/mens-top-picks/2000341644
+
+cart 141,142 : https://www.forever21.com/ca/shop/Catalog/Product/f21/dress_bodycon/2000341146
+
+cart 151,152 : https://www.forever21.com/ca/shop/Catalog/Product/21men/mens-tees-tanks/2000339994
+
+cart 161,162 : https://www.forever21.com/ca/shop/Catalog/Product/21men/promo-mens-basic-tees-shirts-pants/2000238190
+
+cart 171,172 : https://www.forever21.com/ca/shop/Catalog/Product/f21/activewear/2000341085
+
+cart 181,182 : https://www.forever21.com/ca/shop/catalog/product/f21/top_blouses/2000339165
